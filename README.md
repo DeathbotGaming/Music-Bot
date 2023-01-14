@@ -16,7 +16,7 @@ Open the configuration file located in the main folder `config.js`.
 module.exports = {
     app: {
         token: 'XXX',
-        playing: 'by Zerio ❤️',
+        playing: 'by ShadowVR ❤️',
         global: true,
         guild: 'xxx'
     },
@@ -69,8 +69,6 @@ To use the project correctly you will need some tools.
 
 Without forgetting of course the code editor ^^
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
-
 Please do not withdraw the license and keep the credits on this project.
 
 To have full access to the project and to be able to withdraw the credits a small donation is accepted. 
@@ -79,7 +77,7 @@ To have full access to the project and to be able to withdraw the credits a smal
 
 - [ ] lyrics command
 
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
+-  [ ] Vote to skip command 
 
 - [ ] history commnad
 
