@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTA0OTg5NTU1MTA1NzAxODg4MA.Gw6K0O.QvNJg02BcejaMmnnzdtCrCJK_FnlKPIANSR4zI',
+        token: '',
         playing: 'by ShadowVR❤️',
         global: true,
         guild: '973767786046312508'
