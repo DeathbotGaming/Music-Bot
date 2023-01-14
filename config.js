@@ -3,7 +3,7 @@ module.exports = {
         token: '',
         playing: 'by ShadowVR❤️',
         global: true,
-        guild: '973767786046312508'
+        guild: ''
     },
 
     opt: {
